@@ -19,7 +19,7 @@ Docker を使用することで、ローカル環境に依存せず簡単に起�
 
 ターミナルで以下を実行してください。
 
-    git clone git@github.com:annaengneer/golang-docker.git
+    git clone git@github.com:annaengineer250112/golang-docker.git
     cd golang-docker
 
 ### ② .env ファイルを作成
